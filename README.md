@@ -6,9 +6,13 @@ I believe in lifelong learning, collaborative development, and contributing to t
 
 🔥 Who Am I?
 🛠 Full-Stack Developer | MERN Stack | FrontEnd Web Developer | YouTuber | Influencer | Open-Source Enthusiast 
+
 💡 Passionate about creating user-friendly, responsive, and dynamic applications
+
 📚 Always learning new technologies, frameworks, and best practices
+
 💻 Love working on challenging projects and real-world problem-solving
+
 🌍 Open to collaborations, contributions, and exciting opportunities
 
 I firmly believe in the power of technology to change the world, and I'm here to build, learn, apply, share and contribute!
