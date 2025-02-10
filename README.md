@@ -4,7 +4,7 @@ I'm a passionate full-stack developer and open-source enthusiast who loves build
 
 I believe in lifelong learning, collaborative development, and contributing to the tech community. Whether it's web development, open-source projects, or exploring new frameworks, I'm always eager to dive into challenges and grow as a developer.
 
-🔥 Who Am I?
+🔥 Who Am I ?
 
 🛠 Full-Stack Developer | MERN Stack | FrontEnd Web Developer | YouTuber | Influencer | Open-Source Enthusiast 
 
@@ -20,7 +20,7 @@ I believe in lifelong learning, collaborative development, and contributing to t
 I firmly believe in the power of technology to change the world, and I'm here to build, learn, apply, share and contribute!
 
 
-🚀 Tech Stack & Tools I Use
+🚀 Tech Stack & Tools I Use - 
 
 🌐 Frontend Development:
 
@@ -31,7 +31,7 @@ I firmly believe in the power of technology to change the world, and I'm here to
 ✅ Responsive & Interactive Web Designs
 
 
-⚙️ Backend Development:
+⚙️ Backend Development :
 
 ✅ Node.js, Express.js
 
@@ -40,12 +40,12 @@ I firmly believe in the power of technology to change the world, and I'm here to
 ✅ Server-side Logic & Database Management
 
 
-🗄 Databases & Cloud:
+🗄 Databases & Cloud :
 
 ✅ MongoDB
 
 
-🛠 Development & Deployment Tools:
+🛠 Development & Deployment Tools :
 
 ✅ Git & GitHub (Version Control)
 
