@@ -25,7 +25,9 @@ I firmly believe in the power of technology to change the world, and I'm here to
 🌐 Frontend Development:
 
 ✅ HTML, CSS, JavaScript, React.js, Next.js
+
 ✅ Tailwind CSS, Material UI
+
 ✅ Responsive & Interactive Web Designs
 
 
@@ -41,7 +43,6 @@ I firmly believe in the power of technology to change the world, and I'm here to
 🗄 Databases & Cloud :
 
 ✅ MongoDB
-
 
 🛠 Development & Deployment Tools :
 
