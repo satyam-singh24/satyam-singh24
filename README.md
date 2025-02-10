@@ -1,4 +1,4 @@
-🚀 Hey World, I'm # Satyam Singh – Welcome to My GitHub! 👋
+🚀 Hey World, I'm Satyam Singh – Welcome to My GitHub! 👋
 
 I'm a passionate full-stack developer and open-source enthusiast who loves building innovative and impactful projects. My journey in coding is fueled by curiosity, creativity, and a strong desire to solve real-world problems with clean, scalable, and efficient code.
 
