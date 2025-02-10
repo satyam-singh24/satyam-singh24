@@ -1,4 +1,4 @@
-🚀 Hey Developer, I'm [Satyam Singh] – Welcome to My GitHub! 👋
+🚀 Hey World, I'm [Satyam Singh] – Welcome to My GitHub! 👋
 
 I'm a passionate full-stack developer and open-source enthusiast who loves building innovative and impactful projects. My journey in coding is fueled by curiosity, creativity, and a strong desire to solve real-world problems with clean, scalable, and efficient code.
 
@@ -87,10 +87,15 @@ Here are some of my most exciting projects:
 Check out all my projects in the Repositories section! 🚀
 
 🎯 What I’m Currently Working On
+
 🔹 Improving my full-stack development skills
+
 🔹 Exploring advanced React.js and backend optimizations
+
 🔹 Building exciting side projects
+
 🔹 Contributing to open-source projects
+
 🔹 Expanding my knowledge in cloud computing & DevOps
 
 If you have an interesting project or an open-source idea, feel free to reach out for collaboration! 🚀
@@ -98,11 +103,15 @@ If you have an interesting project or an open-source idea, feel free to reach ou
 🤝 Let's Connect & Collaborate!
 If you're passionate about tech, development, or open-source, let's connect! I'm always open to discussions, collaborations, and learning opportunities.
 
-💼 Portfolio: [Your Portfolio Link]
+💼 Portfolio: [https://myportfolio-satyam24.netlify.app/]
+
 📧 Email: sk6206553@gmail.com | skpilot9475@gmail.com
-🐦 Twitter: [Your Twitter Handle]
-💻 LinkedIn: [Your LinkedIn Profile]
-📷 Instagram: [Your Instagram Handle]
+
+📺 YouTube: [https://youtube.com/@eminenttraveller?si=Uno3ZC65v0b82mQA]
+
+💻 LinkedIn: [https://www.linkedin.com/in/satyam-kumar-3015a4260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
+📷 Instagram: [https://www.instagram.com/satyam_singhji_?igsh=eWJlMHJtbGhkODJh]
 
 Feel free to reach out, connect, and collaborate with me!
 
@@ -110,7 +119,9 @@ Feel free to reach out, connect, and collaborate with me!
 If you find my projects useful or like my work, consider starring ⭐ my repositories and following me for more updates! 🚀
 
 🔹 Fork and contribute to my projects
+
 🔹 Report issues and help improve open-source projects
+
 🔹 Share feedback and suggestions
 
 Your support means the world to me! Let's build amazing things together! 💙✨
