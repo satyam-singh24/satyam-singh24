@@ -109,7 +109,7 @@ If you're passionate about tech, development, or open-source, let's connect! I'm
 
 📺 YouTube: [https://youtube.com/@eminenttraveller?si=Uno3ZC65v0b82mQA]
 
-💻 LinkedIn: [https://www.linkedin.com/in/satyam-kumar-3015a4260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+💻 LinkedIn: [https://www.linkedin.com/in/satyam-kumar-24-developer/]
 
 📷 Instagram: [https://www.instagram.com/satyam_singhji_?igsh=eWJlMHJtbGhkODJh]
 
