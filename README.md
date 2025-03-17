@@ -71,7 +71,7 @@ I strive to contribute consistently and collaborate with developers worldwide to
 🚀 Featured Projects & Repositories
 Here are some of my most exciting projects:
 
-🌟 Project 1 Name : StudyNotion- EdTech Platform (MERN Stack)
+🌟 Project 1 Name :**StudyNotion- EdTech Platform (MERN Stack)**
 ✅ Tech Stack: MongoDB, Express.js, React.js, Node.js, JavaScript, Tailwind, Postman
 ✅ Description:  • Developed a fully functional EdTech platform enabling users to create, access, and review educational content.
                     Leveraged the MERN stack for robust backend and seamless frontend integration.
@@ -80,15 +80,22 @@ Here are some of my most exciting projects:
                     
 ✅ Live Demo: [https://studynotion-frontend.vercel.app/]
 
-🌟 Project 2 Name
-✅ Tech Stack: JavaScript, HTML, CSS
-✅ Description: A short summary of its functionality
-✅ GitHub Repository: View Code
+🌟 Project 2 Name : "**Grilli- Amazing & Delicious Food**"
+✅ Tech Stack: JavaScript, HTML, CSS, Tailwind
+✅ Description:  • Designed a responsive restaurant website, Grilli- Amazing & Delicious Food,” focusing on intuitive navigation and
+ an aesthetic interface using HTML, CSS, and JavaScript.
+ • Integrated interactive menus and a flexible reservation system, enhancing customer engagement and streamlining
+ booking operations.
+✅ GitHub Repository: (https://github.com/satyam-singh24/Restaurant-web)
+✅ Live Demo: [https://satyam-singh24.github.io/Restaurant-web/]
 
-🌟 Project 3 Name
-✅ Tech Stack: React Native, Firebase
-✅ Description: A brief explanation of what the project offers
-✅ Live Preview: See it in action!
+🌟 Project 3 Name : **Razorpay Clone - Front-end**
+✅ Tech Stack: HTML, CSS, javaScript, Tailwind
+✅ Description:  • Replicated Razorpay’s website using HTML, Tailwind CSS, and MongoDB, achieving pixel-perfect design and
+ smooth user experience.
+ • Ensured cross-device compatibility with optimized responsiveness and user-friendly payment flow for seamless
+ transactions.
+✅ Live Preview: [https://celebrated-cassata-5c6eae.netlify.app/]
 
 Check out all my projects in the Repositories section! 🚀
 
