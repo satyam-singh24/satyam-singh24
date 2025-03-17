@@ -44,6 +44,8 @@ I firmly believe in the power of technology to change the world, and I'm here to
 
 ✅ MongoDB
 
+✅ MySQL
+
 🛠 Development & Deployment Tools :
 
 ✅ Git & GitHub (Version Control)
@@ -69,10 +71,14 @@ I strive to contribute consistently and collaborate with developers worldwide to
 🚀 Featured Projects & Repositories
 Here are some of my most exciting projects:
 
-🌟 Project 1 Name
-✅ Tech Stack: React.js, Node.js, MongoDB
-✅ Description: A brief overview of what this project does
-✅ Live Demo: Check it out!
+🌟 Project 1 Name : StudyNotion- EdTech Platform (MERN Stack)
+✅ Tech Stack: MongoDB, Express.js, React.js, Node.js, JavaScript, Tailwind, Postman
+✅ Description:  • Developed a fully functional EdTech platform enabling users to create, access, and review educational content.
+                    Leveraged the MERN stack for robust backend and seamless frontend integration.
+                  • Enhanced user engagement by implementing an intuitive UI/UX, ensuring an interactive learning experience for
+                    students and a global platform for instructors.
+                    
+✅ Live Demo: [https://studynotion-frontend.vercel.app/]
 
 🌟 Project 2 Name
 ✅ Tech Stack: JavaScript, HTML, CSS
